@@ -34,6 +34,7 @@ Extensions for Directus 11 and newer.
 | --- | --- | --- |
 | [`@shilp.dev/directus-google-auth`](https://github.com/shilpdev/directus-extensions/tree/main/packages/google-auth) | "Login with Google" for custom frontends. Signs users in (and registers them on first login) as regular Directus users, with session cookie or JWT modes. | [![npm](https://img.shields.io/npm/v/@shilp.dev/directus-google-auth.svg)](https://www.npmjs.com/package/@shilp.dev/directus-google-auth) |
 | [`@shilp.dev/directus-ai-content-generator`](https://github.com/shilpdev/directus-extensions/tree/main/packages/ai-content-generator) | Flow operation that generates content (descriptions, summaries, copy) with Claude or Gemini from a prompt and a set of variables. | [![npm](https://img.shields.io/npm/v/@shilp.dev/directus-ai-content-generator.svg)](https://www.npmjs.com/package/@shilp.dev/directus-ai-content-generator) |
+| [`@shilp.dev/directus-counter`](https://github.com/shilpdev/directus-extensions/tree/main/packages/counter) | Endpoint that atomically increments a numeric field (views, plays, downloads) of any item, found by its id or any other field such as a slug. | [![npm](https://img.shields.io/npm/v/@shilp.dev/directus-counter.svg)](https://www.npmjs.com/package/@shilp.dev/directus-counter) |
 
 ## Contributing
 
